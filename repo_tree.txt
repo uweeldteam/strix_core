@@ -1,0 +1,188 @@
+.
+├── ./$PBOPREFIX$.txt
+├── ./config.cpp
+├── ./data
+│   ├── ./data/gui
+│   │   ├── ./data/gui/1hpicons.edds
+│   │   ├── ./data/gui/1hpicons.imageset
+│   │   ├── ./data/gui/hpicons.edds
+│   │   ├── ./data/gui/hpicons.imageset
+│   │   ├── ./data/gui/logo.paa
+│   │   ├── ./data/gui/logo.png
+│   │   ├── ./data/gui/logo_large.paa
+│   │   ├── ./data/gui/logo_large.png
+│   │   ├── ./data/gui/logo_small.paa
+│   │   ├── ./data/gui/logo_small.png
+│   │   ├── ./data/gui/mascot.paa
+│   │   ├── ./data/gui/mascot.png
+│   │   └── ./data/gui/strix_cover.png
+│   ├── ./data/inputs.xml
+│   └── ./data/textures
+│       └── ./data/textures/nbc_bag
+│           ├── ./data/textures/nbc_bag/nbcbag_co.paa
+│           ├── ./data/textures/nbc_bag/nbcbag_co.png
+│           └── ./data/textures/nbc_bag/nbcbag_co.png.kra
+├── ./languagecore
+│   └── ./languagecore/stringtable.csv
+├── ./repo_tree.txt
+├── ./scripts
+│   ├── ./scripts/3_Game
+│   │   └── ./scripts/3_Game/Enums
+│   │       └── ./scripts/3_Game/Enums/HPCc.c
+│   ├── ./scripts/4_World
+│   │   ├── ./scripts/4_World/Classes
+│   │   │   ├── ./scripts/4_World/Classes/Actions
+│   │   │   │   ├── ./scripts/4_World/Classes/Actions/ActionConstructor.c
+│   │   │   │   └── ./scripts/4_World/Classes/Actions/ActionInteractWithTable.c
+│   │   │   ├── ./scripts/4_World/Classes/PluginRecipesManagerBase.c
+│   │   │   └── ./scripts/4_World/Classes/recipes
+│   │   │       └── ./scripts/4_World/Classes/recipes/DECRAFT_Table.c
+│   │   ├── ./scripts/4_World/CraftManager
+│   │   │   ├── ./scripts/4_World/CraftManager/CraftClasses.c
+│   │   │   ├── ./scripts/4_World/CraftManager/CraftManager.c
+│   │   │   ├── ./scripts/4_World/CraftManager/CraftServerManager.c
+│   │   │   └── ./scripts/4_World/CraftManager/Hud
+│   │   │       ├── ./scripts/4_World/CraftManager/Hud/CraftHud.c
+│   │   │       ├── ./scripts/4_World/CraftManager/Hud/OneItemForCtaft.c
+│   │   │       └── ./scripts/4_World/CraftManager/Hud/OneItmRecipe.c
+│   │   ├── ./scripts/4_World/Entities
+│   │   │   ├── ./scripts/4_World/Entities/ItemBase
+│   │   │   │   ├── ./scripts/4_World/Entities/ItemBase/HP_Crafter.c
+│   │   │   │   ├── ./scripts/4_World/Entities/ItemBase/HP_Crafter_Kit.c
+│   │   │   │   └── ./scripts/4_World/Entities/ItemBase/Hologram.c
+│   │   │   └── ./scripts/4_World/Entities/ManBase
+│   │   │       └── ./scripts/4_World/Entities/ManBase/PlayerBase.c
+│   │   └── ./scripts/4_World/layout
+│   │       ├── ./scripts/4_World/layout/Ammo.edds
+│   │       ├── ./scripts/4_World/layout/Craft.edds
+│   │       ├── ./scripts/4_World/layout/HP_Crafter.edds
+│   │       ├── ./scripts/4_World/layout/HP_Crafter.layout
+│   │       ├── ./scripts/4_World/layout/OneItemForCraft.layout
+│   │       ├── ./scripts/4_World/layout/OneItemRecipe.layout
+│   │       ├── ./scripts/4_World/layout/Paint.edds
+│   │       ├── ./scripts/4_World/layout/Repair.edds
+│   │       ├── ./scripts/4_World/layout/Tools.edds
+│   │       ├── ./scripts/4_World/layout/Weapon.edds
+│   │       ├── ./scripts/4_World/layout/ammopic.edds
+│   │       ├── ./scripts/4_World/layout/bookpic.edds
+│   │       ├── ./scripts/4_World/layout/building.edds
+│   │       ├── ./scripts/4_World/layout/buildingpic.edds
+│   │       ├── ./scripts/4_World/layout/car.edds
+│   │       ├── ./scripts/4_World/layout/carpic.edds
+│   │       ├── ./scripts/4_World/layout/craftpic.edds
+│   │       ├── ./scripts/4_World/layout/donatepic.edds
+│   │       ├── ./scripts/4_World/layout/furniture.edds
+│   │       ├── ./scripts/4_World/layout/furniturepic.edds
+│   │       ├── ./scripts/4_World/layout/greenBtn.edds
+│   │       ├── ./scripts/4_World/layout/housepic.edds
+│   │       ├── ./scripts/4_World/layout/medic.edds
+│   │       ├── ./scripts/4_World/layout/medicpic.edds
+│   │       ├── ./scripts/4_World/layout/paintpic.edds
+│   │       ├── ./scripts/4_World/layout/redBtn.edds
+│   │       ├── ./scripts/4_World/layout/repairpic.edds
+│   │       ├── ./scripts/4_World/layout/sewingkit.edds
+│   │       ├── ./scripts/4_World/layout/sewingkitpic.edds
+│   │       ├── ./scripts/4_World/layout/toolspic.edds
+│   │       ├── ./scripts/4_World/layout/voltagepic.edds
+│   │       └── ./scripts/4_World/layout/weaponpic.edds
+│   ├── ./scripts/5_Mission
+│   │   └── ./scripts/5_Mission/mission
+│   │       ├── ./scripts/5_Mission/mission/MissionBase.c
+│   │       ├── ./scripts/5_Mission/mission/MissionGameplay.c
+│   │       └── ./scripts/5_Mission/mission/MissionServer.c
+│   └── ./scripts/includes
+│       ├── ./scripts/includes/Magazines
+│       │   └── ./scripts/includes/Magazines/Ammo.hpp
+│       ├── ./scripts/includes/Slots
+│       │   ├── ./scripts/includes/Slots/FirstAidKit.hpp
+│       │   ├── ./scripts/includes/Slots/nbc.hpp
+│       │   └── ./scripts/includes/Slots/workbench.hpp
+│       ├── ./scripts/includes/Vehicles
+│       │   ├── ./scripts/includes/Vehicles/bags
+│       │   │   ├── ./scripts/includes/Vehicles/bags/bags.hpp
+│       │   │   └── ./scripts/includes/Vehicles/bags/nbc.hpp
+│       │   ├── ./scripts/includes/Vehicles/clothing
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/belts.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/body.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/boots.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/gloves.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/head.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/misc.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/nbc.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/clothing/pants.hpp
+│       │   │   └── ./scripts/includes/Vehicles/clothing/vests.hpp
+│       │   ├── ./scripts/includes/Vehicles/containers
+│       │   │   └── ./scripts/includes/Vehicles/containers/containers.hpp
+│       │   ├── ./scripts/includes/Vehicles/food
+│       │   │   └── ./scripts/includes/Vehicles/food/food.hpp
+│       │   ├── ./scripts/includes/Vehicles/materials
+│       │   │   └── ./scripts/includes/Vehicles/materials/materials.hpp
+│       │   ├── ./scripts/includes/Vehicles/medicine
+│       │   │   └── ./scripts/includes/Vehicles/medicine/medicine.hpp
+│       │   ├── ./scripts/includes/Vehicles/misc
+│       │   │   ├── ./scripts/includes/Vehicles/misc/canteens.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/misc/car.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/misc/cookware.hpp
+│       │   │   ├── ./scripts/includes/Vehicles/misc/electronic.hpp
+│       │   │   └── ./scripts/includes/Vehicles/misc/misc.hpp
+│       │   ├── ./scripts/includes/Vehicles/tools
+│       │   │   ├── ./scripts/includes/Vehicles/tools/repair_tools.hpp
+│       │   │   └── ./scripts/includes/Vehicles/tools/tools.hpp
+│       │   └── ./scripts/includes/Vehicles/weapons
+│       │       ├── ./scripts/includes/Vehicles/weapons/1911.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/ak101.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/ak74.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/akm.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/aug.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/b95.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/blade.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/blunt.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/crossbow.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/cz527.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/cz550.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/cz65.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/cz75.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/de.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/derringer.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/fal.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/famas.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/flaregun.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/fnx45.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/glock.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/izh18.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/izh18shotgun.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/izh43.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/longhorn.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/m14.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/m16a2.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/m4.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/m79.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/magazine.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/magnum.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/melee.hpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/mkii.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/mosin9130.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/mp133.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/mp5.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/muzzle.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/p1.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/pb6p9.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/pmm.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/pp19.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/red9.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/repeater.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/ruger1022.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/saiga.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/scout.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/sks.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/ssg82.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/suppressors.hpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/sv98.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/svd.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/ump45.cpp
+│       │       ├── ./scripts/includes/Vehicles/weapons/vss.cpp
+│       │       └── ./scripts/includes/Vehicles/weapons/winchester70.cpp
+│       └── ./scripts/includes/macros.hpp
+└── ./textures.lst
+
+34 directories, 152 files
