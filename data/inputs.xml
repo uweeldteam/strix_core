@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAOpenSurvivorsBook" loc="$STRIX_OPEN_SURVIVOR_BOOK"/>
+        </actions>
+        <sorting name="strix" loc="$STRIX_SETTINGS_MENU">
+            <input name="UAOpenSurvivorsBook"/>
+        </sorting>
+    </inputs>
+    <preset>
+        <input name="UAOpenSurvivorsBook">
+            <btn name="kO"/>
+        </input>
+    </preset>
+</modded_inputs>

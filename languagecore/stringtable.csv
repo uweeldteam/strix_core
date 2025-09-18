@@ -1,0 +1,118 @@
+Language,Original,Russian
+STR_STRIX_PATCH_DESC,Identifier Patch - comes in a variety of patterns and emblems,Идентификационная нашивка - поставляется в виде различных узоров и эмблем
+STR_STRIX_FLAG_RUSSIA,Flag Patch — Russia,Нашивка-флаг — Россия
+STR_STRIX_FLAG_USSR,Flag Patch — USSR,Нашивка-флаг — СССР
+STR_STRIX_FLAG_BELARUS,Flag Patch — Belarus,Нашивка-флаг — Беларусь
+STR_STRIX_FLAG_UKRAINE,Flag Patch — Ukraine,Нашивка-флаг — Украина
+STR_STRIX_FLAG_KAZAKHSTAN,Flag Patch — Kazakhstan,Нашивка-флаг — Казахстан
+STR_STRIX_FLAG_ARMENIA,Flag Patch — Armenia,Нашивка-флаг — Армения
+STR_STRIX_FLAG_AZERBAIJAN,Flag Patch — Azerbaijan,Нашивка-флаг — Азербайджан
+STR_STRIX_FLAG_GEORGIA,Flag Patch — Georgia,Нашивка-флаг — Грузия
+STR_STRIX_FLAG_MOLDOVA,Flag Patch — Moldova,Нашивка-флаг — Молдова
+STR_STRIX_FLAG_KYRGYZSTAN,Flag Patch — Kyrgyzstan,Нашивка-флаг — Киргизия
+STR_STRIX_FLAG_TAJIKISTAN,Flag Patch — Tajikistan,Нашивка-флаг — Таджикистан
+STR_STRIX_FLAG_TURKMENISTAN,Flag Patch — Turkmenistan,Нашивка-флаг — Туркменистан
+STR_STRIX_FLAG_UZBEKISTAN,Flag Patch — Uzbekistan,Нашивка-флаг — Узбекистан
+STR_STRIX_FLAG_ESTONIA,Flag Patch — Estonia,Нашивка-флаг — Эстония
+STR_STRIX_FLAG_LATVIA,Flag Patch — Latvia,Нашивка-флаг — Латвия
+STR_STRIX_FLAG_LITHUANIA,Flag Patch — Lithuania,Нашивка-флаг — Литва
+STR_STRIX_FLAG_POLAND,Flag Patch — Poland,Нашивка-флаг — Польша
+STR_STRIX_FLAG_GERMANY,Flag Patch — Germany,Нашивка-флаг — Германия
+STR_STRIX_FLAG_FINLAND,Flag Patch — Finland,Нашивка-флаг — Финляндия
+STR_STRIX_FLAG_SWEDEN,Flag Patch — Sweden,Нашивка-флаг — Швеция
+STR_STRIX_FLAG_NORWAY,Flag Patch — Norway,Нашивка-флаг — Норвегия
+STR_STRIX_FLAG_TURKEY,Flag Patch — Turkey,Нашивка-флаг — Турция
+STR_STRIX_FLAG_SERBIA,Flag Patch — Serbia,Нашивка-флаг — Сербия
+STR_STRIX_FLAG_ROMANIA,Flag Patch — Romania,Нашивка-флаг — Румыния
+STR_STRIX_FLAG_BULGARIA,Flag Patch — Bulgaria,Нашивка-флаг — Болгария
+STR_STRIX_FLAG_CZECH,Flag Patch — Czechia,Нашивка-флаг — Чехия
+STR_STRIX_FLAG_SLOVAKIA,Flag Patch — Slovakia,Нашивка-флаг — Словакия
+STR_STRIX_FLAG_HUNGARY,Flag Patch — Hungary,Нашивка-флаг — Венгрия
+STR_STRIX_FLAG_GREECE,Flag Patch — Greece,Нашивка-флаг — Греция
+STR_STRIX_FLAG_ITALY,Flag Patch — Italy,Нашивка-флаг — Италия
+STR_STRIX_FLAG_FRANCE,Flag Patch — France,Нашивка-флаг — Франция
+STR_STRIX_FLAG_SPAIN,Flag Patch — Spain,Нашивка-флаг — Испания
+STR_STRIX_FLAG_PORTUGAL,Flag Patch — Portugal,Нашивка-флаг — Португалия
+STR_STRIX_FLAG_UNITED_KINGDOM,Flag Patch — United Kingdom,Нашивка-флаг — Великобритания
+STR_STRIX_FLAG_UNITED_STATES,Flag Patch — United States,Нашивка-флаг — США
+STR_STRIX_FLAG_CANADA,Flag Patch — Canada,Нашивка-флаг — Канада
+STR_STRIX_FLAG_ISRAEL,Flag Patch — Israel,Нашивка-флаг — Израиль
+STR_STRIX_FLAG_IRAN,Flag Patch — Iran,Нашивка-флаг — Иран
+STR_STRIX_FLAG_AFGHANISTAN,Flag Patch — Afghanistan,Нашивка-флаг — Афганистан
+STR_STRIX_FLAG_CHINA,Flag Patch — China,Нашивка-флаг — Китай
+STR_STRIX_FLAG_JAPAN,Flag Patch — Japan,Нашивка-флаг — Япония
+STR_STRIX_FLAG_SOUTH_KOREA,Flag Patch — South Korea,Нашивка-флаг — Южная Корея
+STR_STRIX_FLAG_MONGOLIA,Flag Patch — Mongolia,Нашивка-флаг — Монголия
+STR_STRIX_PATCH_SQUAD_LEADER,Identifier Patch — Squad Leader,Шеврон — Командир отделения
+STR_STRIX_PATCH_TEAM_LEADER,Identifier Patch — Team Leader,Шеврон — Командир группы
+STR_STRIX_PATCH_MACHINEGUNNER,Identifier Patch — Machinegunner,Шеврон — Пулемётчик
+STR_STRIX_PATCH_MEDIC,Identifier Patch — Medic,Шеврон — Медик
+STR_STRIX_PATCH_SNIPER,Identifier Patch — Sniper,Шеврон — Снайпер
+STR_STRIX_PATCH_RIFLEMAN,Identifier Patch — Rifleman,Шеврон — Стрелок
+STR_STRIX_PATCH_US,Identifier Patch — US,Шеврон — США
+STR_STRIX_PATCH_UK,Identifier Patch — UK,Шеврон — Великобритания
+STR_STRIX_PATCH_AUS,Identifier Patch — AUS,Шеврон — Австралия
+STR_STRIX_PATCH_US_IR,Identifier Patch — US (IR),Шеврон — США (IR)
+STR_STRIX_PATCH_UK_IR,Identifier Patch — UK (IR),Шеврон — Великобритания (IR)
+STR_STRIX_PATCH_AUS_IR,Identifier Patch — AUS (IR),Шеврон — Австралия (IR)
+STR_STRIX_PATCH_ROTTENS_RAIDERS,Identifier Patch — Rotten's Raiders,Шеврон — Rotten's Raiders
+STR_STRIX_PATCH_A10_WARTHOG,Identifier Patch — A10 Warthog,Шеврон — A10 Warthog
+STR_STRIX_PATCH_EOD,Identifier Patch — EOD,Шеврон — EOD (разминирование)
+STR_STRIX_PATCH_FSU,Identifier Patch — F*ck Sh*t Up,Шеврон — F*ck Sh*t Up
+STR_STRIX_PATCH_NFG,Identifier Patch — No F*cks Given,Шеврон — No F*cks Given
+STR_STRIX_PATCH_ITOFTS,Identifier Patch — I'm Too Old for This Sh*t,Шеврон — I'm Too Old for This Sh*t
+STR_STRIX_PATCH_WYC,Identifier Patch — Weyland-Yutani Corp,Шеврон — Weyland-Yutani Corp
+STR_STRIX_PATCH_THE_WARRIORS,Identifier Patch — The Warriors,Шеврон — The Warriors
+STR_STRIX_PATCH_CANADA,Identifier Patch — Canada,Шеврон — Канада
+STR_STRIX_PATCH_CANADA_IR,Identifier Patch — Canada (IR),Шеврон — Канада (IR)
+STR_STRIX_PATCH_OBEY,Identifier Patch — OBEY,Шеврон — OBEY
+STR_STRIX_PATCH_BLACKWATER,Identifier Patch — Blackwater,Шеврон — Blackwater
+STR_STRIX_PATCH_LYACS,Identifier Patch — Lagoon Trade & Courier Services,Шеврон — Lagoon Trade & Courier Services
+STR_STRIX_PATCH_HCLI,Identifier Patch — HCLI,Шеврон — HCLI
+STR_STRIX_PATCH_BOOGALOO,Identifier Patch — Boogaloo,Шеврон — Boogaloo
+STR_STRIX_PATCH_UN,Identifier Patch — UN,Шеврон — ООН
+STR_STRIX_PATCH_UMBRELLA,Identifier Patch — Umbrella,Шеврон — Umbrella
+STR_STRIX_PATCH_UMBRELLA_SS,Identifier Patch — Umbrella Security Service,Шеврон — Umbrella Security Service
+STR_STRIX_PATCH_ROMANIA,Identifier Patch — Romania,Шеврон — Румыния
+STR_STRIX_PATCH_SWEDEN,Identifier Patch — Sweden,Шеврон — Швеция
+STR_STRIX_PATCH_ANARCHY,Identifier Patch — Anarchy,Шеврон — Анархия
+STR_STRIX_PATCH_RTO,Identifier Patch — RTO,Шеврон — RTO
+STR_STRIX_PATCH_TITW,Identifier Patch — This is the Way,Шеврон — Таков путь
+STR_STRIX_PATCH_ADMIN,Identifier Patch — ADMIN,Шеврон — АДМИН
+STR_STRIX_NBC_BAG,Сумка для хим. комплекта,Сумка для хим. комплекта
+STR_STRIX_NBC_BAG_DESC,Сумка для полного комплекта химической защиты,Сумка для полного комплекта химической защиты
+STR_STRIX_NBC_HOOD,Капюшон,Капюшон
+STR_STRIX_NBC_BOOTS,Ботинки,Ботинки
+STR_STRIX_NBC_GLOVES,Перчатки,Перчатки
+STR_STRIX_NBC_PANTS,Штаны,Штаны
+STR_STRIX_NBC_JACKET,Куртка,Куртка
+STR_STRIX_NBC_GASMASK,Противогаз,Противогаз
+STR_STRIX_NBC_GASFILTER,Фильтр противогаза,Фильтр противогаза
+STR_HP_ANVIL0,Anvil,Наковальня
+STR_HP_ANVIL1,"An old anvil, a little rusty, but suitable for work","Старая наковальня, немного ржавая, но пригодна для работы."
+STR_HP_CRAFTER_KIT0,Workbench Kit,Набор для сборки верстака
+STR_HP_CRAFTER_KIT1,"Need to unpack, but I'd rather do it at home","Нужно распаковать, но лучше сделать это дома."
+STR_HP_TABLE0,Workbench,Верстак
+STR_HP_TABLE1,A table where you can do everything (almost),"Стол, за которым можно сделать почти всё."
+STR_HP_DRILL0,Drill,Дрель
+STR_HP_DRILL1,"A good machine, they say that half of the economy of the USSR was based on such machines.","Хороший станок; говорят, на таких держалась половина экономики СССР."
+STR_HP_GRINDE0,Grinding machine,Шлифовальный станок
+STR_HP_GRINDE1,Good for working with wood and metal.,Подходит для работы с деревом и металлом.
+STR_HP_NAPILNIK0,File,Напильник
+STR_HP_NAPILNIK1,These things will never be replaced.,Этой вещи никогда не найдут полноценной замены.
+STR_HP_OILER0,Oiler,Маслёнка
+STR_HP_OILER1,"A necessary item when working with workbenches, and also suitable for lubricating parts subject to friction.","Необходима при работе с верстаками; подходит для смазки деталей, подверженных трению."
+STR_HP_VISE0,Vise,Тиски
+STR_HP_VISE1,A subject without which no workshop can do.,"Предмет, без которого не обходится ни одна мастерская."
+STR_HP_PAYALNIK0,Soldering iron,Паяльник
+STR_HP_PAYALNIK1,"A hand tool used in tinning and soldering to heat parts, flux, melt solder and bring it into the contact area of the parts being soldered.","Ручной инструмент, применяемый при лужении и пайке для нагрева деталей и флюса, расплавления припоя и внесения его в зону контакта соединяемых деталей."
+STR_HP_PLATA0,Microcircuit,Микросхема
+STR_HP_PLATA1,"A microcircuit, a valuable item, you must try to do something with it.",Микросхема — ценный предмет; стоит попытаться что-нибудь с ней сделать.
+STR_HP_BATTERY0,Battery 1.5V,"Батарейка 1,5 В"
+STR_HP_BATTERY1,"1.5V alkaline battery, used to power various small devices.","Щелочная батарейка на 1,5 В; используется для питания различных небольших приборов."
+STR_HP_TESTER0,Multimeter,Мультиметр
+STR_HP_TESTER1,"An electronic measuring device that combines several measurement functions. A typical multimeter covers basic functions such as measuring voltage, current, and resistance.","Электронный измерительный прибор, объединяющий несколько функций. Типичный мультиметр измеряет напряжение, ток и сопротивление."
+STR_HP_ZAGOTOVKA0,English,Русский
+STR_SETTINGS_MENU,STRIX,STRIX
+STR_OPEN_SURVIVOR_BOOK,Open Survivor Book,Открыть книгу выжившего
+,
