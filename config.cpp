@@ -67,7 +67,7 @@ class CfgPatches {
 };
 class CfgMods {
 	class Strix_Mod {
-		name 		= "STRIX - Survival Mod";														// имя
+		name 		= "STRIX - Survival Mod Core";														// имя
 		picture 	= "strix_mod\data\gui\logo.paa";       											// изображение в расширенном описании
 		logoSmall 	= "strix_mod\data\gui\logo_small.paa";											// значок рядом с названием мода, когда описание не развернуто
 		logo 		= "strix_mod\data\gui\logo_large.paa";          									// логотип под игровым меню
