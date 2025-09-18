@@ -67,10 +67,10 @@ class CfgPatches {
 };
 class CfgMods {
 	class Strix_Mod {
-		name 		= "STRIX - Server Core";														// имя
+		name 		= "STRIX - Survival Mod";														// имя
 		picture 	= "strix_mod\data\gui\logo.paa";       											// изображение в расширенном описании
 		logoSmall 	= "strix_mod\data\gui\logo_small.paa";											// значок рядом с названием мода, когда описание не развернуто
-		logo 		= "strix_mod\data\gui\logo_large.paa";          								// логотип под игровым меню
+		logo 		= "strix_mod\data\gui\logo_large.paa";          									// логотип под игровым меню
 		logoOver 	= "strix_mod\data\gui\mascot.paa";												// при наведении курсора мыши на логотип
 		tooltip 	= "STRIX - Survival Mod";														// всплывающая подсказка при наведении курсора мыши
 		overview 	= "Хардкорный сервер DayZ с упором на атмосферу выживания и честный лут.";		// обзор
