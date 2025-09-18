@@ -1,8 +1,8 @@
 class NBCBag: DrysackBag_ColorBase { //NBCBag
     itemSize[] = {2,2};
 	scope=2;
-    displayName="$STR_STRIX_NBC_BAG";
-    descriptionShort="$STR_STRIX_NBC_BAG_DESC";
+    displayName=STR_MAIN(NBC_BAG);
+    descriptionShort=STR_MAIN(NBC_BAG_DESC);
 	itemsCargoSize[] ={6,7};
     hiddenSelectionsTextures[] = { TEXTURESFOLDER(nbc_bag\nbcbag_co.paa),TEXTURESFOLDER(nbc_bag\nbcbag_co.paa),TEXTURESFOLDER(nbc_bag\nbcbag_co.paa) };//camoGround camoMale camoFemale
     attachments[] = {
